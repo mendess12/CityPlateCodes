@@ -1,6 +1,6 @@
 # CityPlateCodesWithKotlin
 
-### Proje Amacı 
+### Projenin Amacı 
   Girilen herhangi bir şehir plaka kodunun hangi şehre ait olduğunu göstermek. Kotlin de 'When' ve 'ArrayList' yapısını kullanmak.
   
   
